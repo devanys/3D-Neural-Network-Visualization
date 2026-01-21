@@ -1,6 +1,10 @@
 # 3D-Neural-Network-Visualization
 <img width="2255" height="1185" alt="image" src="https://github.com/user-attachments/assets/e311383e-5600-4c30-a4ac-226647ad4fe7" />
 
+
+https://github.com/user-attachments/assets/866d857a-078e-47d1-a139-2c932eb91513
+
+
 ## Overview
 **3D Neural Network Visualization** is an interactive web-based application designed to visually represent the internal structure and behavior of a neural network in three-dimensional space. This project aims to help students, researchers, and practitioners better understand how neural networks process data, learn features, and produce predictions.
 
