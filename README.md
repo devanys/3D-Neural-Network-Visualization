@@ -26,3 +26,5 @@
   See how feature maps and neurons activate across different layers.
 
 ---
+## GitHub Master / Original Reference
+github.com/ChuWon/cnn
